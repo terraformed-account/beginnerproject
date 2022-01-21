@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio
 
 You can use the [editor on GitHub](https://github.com/terraformed-account/beginnerproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Here I will be able to show you what kind of projects I do:
+This first one was my [beginnerproject](https://github.com/terraformed-account/beginnerproject) where I started to learn how to use everything.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
